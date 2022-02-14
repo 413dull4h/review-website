@@ -1,0 +1,12 @@
+.Footer {
+    background-color: rgb(70, 67, 67);
+    color: wheat;
+    display: flex;
+    justify-content: center;
+}
+
+.footerHead {
+    font-size: 15px;
+    margin: 10px 10px;
+    padding: 15px 25px;
+}

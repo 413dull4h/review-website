@@ -1,0 +1,20 @@
+.Program2 {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    border: black 2px solid;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
+.Program3 {
+    margin: auto 10px;
+}
+
+.ser {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 0 50px;
+}

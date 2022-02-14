@@ -1,0 +1,12 @@
+.career {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 30px;
+    border: black 2px solid;
+    padding: 40px;
+    border-radius: 30px;
+}
+
+.career>div {
+    margin: 20px;
+}
